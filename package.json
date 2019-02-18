@@ -1,0 +1,11 @@
+{
+  "name": "malicious-module",
+  "version": "1.0.1",
+  "description": "A malicious module for testing require scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brainlulz",
+  "license": "ISC"
+}
